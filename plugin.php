@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Breakdance Migration Mode
  * Plugin URI: https://breakdance.com/features/migration-mode
- * Description: Run Breakdance for specified IP addresses, leaving the site behaving for normal visitors as if Breakdance was not installed. Accidentally locked yourself out or IP address changed? Deactivate and then reactivate this plugin.
+ * Description: Run Breakdance for specified IP addresses, leaving the site behaving for normal visitors as if Breakdance was not installed. Accidentally locked yourself out or IP address changed? Deactivate and then reactivate this plugin. Ready to go live with Breakdance? Remove this plugin.
  * Author: Breakdance
  * Version: 1.0
  * Author URI: https://breakdance.com/features/migration-mode

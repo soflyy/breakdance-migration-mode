@@ -2,6 +2,17 @@
 
 Easily transition your website to Breakdance from other builders or themes. This plugin allows you to rebuild and test your site with Breakdance without affecting your live site for visitors. Breakdance will only be active for specified IP addresses, enabling a smooth and secure setup process.
 
+## How It Works
+
+The Breakdance Migration Mode Plugin operates by identifying your IP address and optionally, any other IP addresses you specify within the plugin's settings. Here's the process:
+
+1. **Automatic IP Recognition:** Upon plugin activation, your current IP address is automatically saved as authorized for Breakdance access.
+2. **Manual IP Configuration:** You can add or remove IP addresses through the plugin settings, allowing other people to also view the site as it will appear with Breakdance enabled.
+3. **Testing in Isolation:** Only users with authorized IP addresses can see the Breakdance version of the site. All other visitors continue to see the site as it was before, ensuring no disruption to your live site.
+4. **Going Live:** When you're satisfied with the setup and ready to launch your site with Breakdance for all users, simply deactivate and delete the Migration Mode plugin.
+
+This approach ensures a secure and controlled environment for site rebuilds and testing, providing a seamless transition to Breakdance without affecting your site's current visitors.
+
 ## Features
 
 - **IP-Specific Activation:** Allows testing of Breakdance on your site without impacting visitors.

@@ -13,12 +13,6 @@ The Breakdance Migration Mode plugin operates by identifying your IP address and
 
 This approach ensures a secure and controlled environment for site rebuilds and testing, providing a seamless transition to Breakdance without affecting your site's current visitors.
 
-## Features
-
-- **IP-Specific Activation:** Allows testing of Breakdance on your site without impacting visitors.
-- **Easy Migration:** Simplify the process of rebuilding your site with Breakdance.
-- **Seamless Go-Live:** Remove the plugin to make Breakdance live for all users.
-
 ## Installation
 
 1. Download the plugin by clicking the green code button on this GitHub repo, then click 'Download ZIP'.

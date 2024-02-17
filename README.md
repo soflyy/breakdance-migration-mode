@@ -51,6 +51,10 @@ The Breakdance Migration Mode Plugin is designed to work seamlessly with live Wo
 
 This plugin relies on `$_SERVER['REMOTE_ADDR']` to identify your IP address. If your server configuration does not expose your real IP address correctly through this variable, the plugin may not function as intended.
 
+While the Breakdance Migration Mode Plugin enables Breakdance features for specific IP addresses, it's important to note that it does not automatically disable other plugins like Elementor or Divi for those users. This means that while you can view and interact with your site through the lens of Breakdance, remnants of styles or scripts from your existing theme or page builders may still be present. However, Breakdance is designed to take precedence in most cases, allowing you to work around any minor issues caused by your existing setup.
+
+This approach is not without its imperfections, but it offers a practical solution that gets you 99% of the way there. It's significantly easier and more efficient than duplicating your site to a staging environment, especially for dynamic websites like WooCommerce stores, where accepting live orders and data is crucial. Staging and rebuilding are viable for static websites, but dynamic sites often face a data transfer and migration nightmare. This plugin circumvents that issue entirely, providing a straightforward path to migrate to Breakdance while your site remains live and functional. Dealing with the minor inconvenience of other page builders still being active is a small price to pay compared to the complexities of data migration and synchronization between live and staging environments.
+
 ## Happy Migrations
 
 We're excited to support your transition to Breakdance. Set up, test, and go live with confidence. Welcome to the future of your website with Breakdance!

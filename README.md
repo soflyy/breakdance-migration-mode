@@ -43,6 +43,10 @@ To make Breakdance live for everyone, simply deactivate and delete the Migration
 
 If you're locked out, disable and re-enable the Migration Mode plugin. It will redetect your IP address.
 
+**How does it work on live WooCommerce stores?**
+
+The Breakdance Migration Mode Plugin is designed to work seamlessly with live WooCommerce stores, allowing you to test Breakdance on your store without impacting the shopping experience for your customers. When activated and configured with your IP address, you can view and interact with the WooCommerce elements of your site as they will appear with Breakdance, while all other visitors see the store's current state. This setup is ideal for testing new layouts, product pages, and checkout flows in a live environment without any risk to sales or customer experience. Remember to thoroughly test all store functionalities, including product browsing, cart management, and checkout processes, to ensure a smooth transition for all users once you go live with Breakdance.
+
 ## Limitations
 
 This plugin relies on `$_SERVER['REMOTE_ADDR']` to identify your IP address. If your server configuration does not expose your real IP address correctly through this variable, the plugin may not function as intended.

@@ -1,6 +1,4 @@
-# This won't work until we release Breakdance 2.0, and we haven't shipped 2.0 yet. 
-
-# ONLY AVAILABLE FOR BREAKDANCE 2.0. This won't work with Breakdance 1.7. Check back soon when we ship 2.0.
+# ONLY AVAILABLE FOR BREAKDANCE 2.0. This won't work with Breakdance 1.7.
 
 # Breakdance Migration Mode Plugin
 

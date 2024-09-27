@@ -1,5 +1,3 @@
-# ONLY AVAILABLE FOR BREAKDANCE 2.0. This won't work with Breakdance 1.7.
-
 # Breakdance Migration Mode Plugin
 
 Easily transition your website to Breakdance from other builders or themes. This plugin allows you to rebuild and test your site with Breakdance without affecting your live site for visitors. Breakdance will only be active for specified IP addresses, enabling a smooth and secure setup process.
